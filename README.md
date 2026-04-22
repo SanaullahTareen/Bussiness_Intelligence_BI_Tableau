@@ -41,18 +41,6 @@ A collection of Business Intelligence (BI) projects featuring interactive dashbo
 
 ---
 
-## 📁 Repository Structure
-Bussiness_Intelligence_BI_Tableau/
-│
-└── Sales Analtics Dashboard - Supermarket Data - Microsoft POWERBI/
-├── dashboard.pbix         # Power BI report file
-├── dataset.csv            # Raw supermarket data
-└── screenshots/           # Dashboard preview images
-
-
-
----
-
 ## 📸 Dashboard Preview
 
 > <img width="1279" height="718" alt="image" src="https://github.com/user-attachments/assets/e73805f4-d559-4af5-9eb1-8347414d14aa" />
