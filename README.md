@@ -55,7 +55,8 @@ Bussiness_Intelligence_BI_Tableau/
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your dashboards here)*
+> <img width="1279" height="718" alt="image" src="https://github.com/user-attachments/assets/e73805f4-d559-4af5-9eb1-8347414d14aa" />
+
 
 ---
 
